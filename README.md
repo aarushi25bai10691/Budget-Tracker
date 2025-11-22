@@ -1,6 +1,6 @@
 # Budget Tracker Project 💰
 
-### Submitted by: [Your Name] | [Your Roll Number]
+### Submitted by: Aarushi Chauhan | 25BAI10691
 
 ## 📖 Project Overview
 This is a Python-based command-line application developed as part of a Python programming course. It helps users track and manage their daily expenses by allowing them to add, categorize, and summarize spending. The project demonstrates modular programming, file handling, and basic data visualization using Python libraries.
@@ -48,7 +48,5 @@ Test the application by:
 3. Restarting the application to confirm data persistence.
 4. Optionally, writing unit tests for core functions using Python’s `unittest` or `pytest`.
 
-## 📸 Screenshots
-*(Add screenshots here if available to showcase the CLI interface and graphs)*
 
 ---
