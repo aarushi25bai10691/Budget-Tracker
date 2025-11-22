@@ -1,23 +1,22 @@
-Problem Statement
-Many individuals struggle to track daily expenses and manage budgets effectively, leading to overspending and insufficient savings. Existing methods are often manual, error-prone, or lack meaningful analysis. There is a need for a simple, efficient tool to record, categorize, and summarize personal expenses.
+# Project Statement: Personal Budget & Expense Tracker
 
-Scope of the Project
-This project focuses on building a Python-based command-line Budget Tracker that allows users to add expenses, view categorized summaries, and visualize spending. It stores data locally using CSV files and provides basic input validation and reporting features. It does not cover income tracking or multi-user support.
+## Problem Statement
+Individuals, especially students and young professionals, often struggle to maintain financial discipline due to a lack of visibility into their daily spending habits. Without a centralized system to record and analyze transactions, it is difficult to track where money is going, leading to overspending and poor financial planning.
 
-Target Users
-Students and young professionals
+## Scope of the Project
+The Personal Budget & Expense Tracker is a desktop/command-line application designed to help users record their daily financial transactions. The scope includes:
+* User authentication to ensure data privacy.
+* Recording income and expenses with specific categories (e.g., Food, Travel, Rent).
+* Storing data persistently in a local database.
+* Generating basic financial summaries (e.g., Total Income vs. Total Expense).
 
-Individuals seeking a straightforward way to monitor personal spending
+## Target Users
+* **Students:** To manage monthly allowances and track discretionary spending.
+* **Freelancers:** To separate irregular income and expense streams.
+* **General Individuals:** Anyone seeking to improve their personal financial health.
 
-Beginners learning Python and data handling
-
-High-level Features
-Adding expense records with date, category, amount, description
-
-Storing expenses persistently in CSV format
-
-Summarizing expenses by category
-
-Displaying bar charts for visual expense analysis
-
-Easy-to-use command-line menu interface
+## High-Level Features
+1.  **User Management:** Secure registration and login functionality.
+2.  **Transaction Management:** Ability to Add, View, Update, and Delete (CRUD) financial records.
+3.  **Categorization:** Tagging transactions by type (Income/Expense) and Category.
+4.  **Reporting:** A "Dashboard" view showing current balance and total spending by category.
